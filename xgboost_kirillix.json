@@ -1,0 +1,8 @@
+{
+max_depth:7, 
+n_estimators:800,
+learning_rate:0.005,
+min_child_weight:4,
+objective:'binary:logistic',
+seed:42
+}
